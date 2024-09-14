@@ -16,5 +16,5 @@ In the Qubic ecosystem, the tick is the interval within which the Quorum commes 
 # Epochs
 A one-week time period from Wednesday 12 UTC to Wednesday 12 UTC during which 1 trillion QUs are generated. 
 
-[[Interacting with the Network]]
+[Interacting with the Network](https://github.com/LINCKODE/hackathon-presentation/blob/main/Interacting%20with%20the%20Network.md)
 
