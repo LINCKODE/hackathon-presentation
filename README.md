@@ -20,4 +20,4 @@ In order for the network to create new **Ticks** (blocks), the Quorum needs the 
 Ticks are organized into **Epochs**, which last 7 days, starting and ending on every Wednesday at 12 PM UTC. 
 During an epoch change, the tick and transaction history of the old epoch is discarded, with only the state of the network during the last epoch tick being saved to disk.
 
-[[Getting started]]
+[Getting started](Getting started)
